@@ -7,4 +7,7 @@
 * A CI (Continuous Intergration) script using GitHub Actions
 * ...
 
+### Screen-shots
+![Hehe](https://github.com/nhthuy-se/math-util/blob/main/screenshots/KoiFISH.png)
+
 #### &#169; 2024 huy.nguyen
